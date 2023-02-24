@@ -1,6 +1,5 @@
-package me.whiteship.java8to11.completableFuture;
+package me.whiteship.java8to11.callableFuture;
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.*;

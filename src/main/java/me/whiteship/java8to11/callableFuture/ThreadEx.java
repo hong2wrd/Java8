@@ -1,4 +1,4 @@
-package me.whiteship.java8to11.completableFuture;
+package me.whiteship.java8to11.callableFuture;
 
 public class ThreadEx {
     public static void main(String[] args) throws InterruptedException {
