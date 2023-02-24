@@ -2,7 +2,7 @@ package me.whiteship.java8to11.completableFuture;
 
 import java.util.concurrent.*;
 
-public class CompletableFutureEx {
+public class CompletableFutureEx1 {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
         ExecutorService executorService = Executors.newFixedThreadPool(4);
         Future<String> futureEx = executorService.submit(() -> "hello");
